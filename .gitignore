@@ -1,0 +1,10 @@
+.env
+compose.local.yaml
+.secrets
+venv/
+INSTALL-WINGET/
+redpanda-quickstart/
+state/
+certificates/
+.quix.yaml.variables
+.venv/
